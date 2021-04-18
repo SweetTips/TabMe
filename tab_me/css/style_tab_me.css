@@ -1,0 +1,21 @@
+.TabMe li
+{
+    list-style: none;
+    display: inline-block;
+}
+
+.TabMe ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+.TabMe-tab
+{
+    display: none;
+}
+
+.TabMe .TabMe-default-tab
+{
+    display: block;
+}
